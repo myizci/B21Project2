@@ -1,6 +1,7 @@
-public class main {
+public class Main {
     public static void main(String[] args) {
         System.out.println("Hello");
-        //lin1
+        //line1
+        //line2
     }
 }
